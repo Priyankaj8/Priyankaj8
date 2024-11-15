@@ -8,9 +8,11 @@ Hi there! I'm a final year CSE student who's passionate about coding with a love
 
 ## 📚 What I'm Learning:
 
-Python: Exploring various concepts from basics to advanced, while working on real-world projects.
-Full Stack Development: Building expertise in both front-end (HTML, CSS) and back-end (Python, Java) technologies.
-APIs & Data Structures: Sharpening my skills with coding challenges, APIs, and algorithms.
+**Python:** Exploring various concepts from basics to advanced, while working on real-world projects.
+
+**Full Stack Development:** Building expertise in both front-end (HTML, CSS) and back-end (Python, Java) technologies.
+
+**APIs & Data Structures:** Sharpening my skills with coding challenges, APIs, and algorithms.
 
 ## 🚀 Always Evolving
 
